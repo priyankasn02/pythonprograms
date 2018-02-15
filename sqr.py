@@ -1,10 +1,12 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Feb 14 14:56:26 2018
+Created on Thu Feb 15 18:53:15 2018
 
 @author: SONY
 """
+
 import math
-from math import *
-a=int(input("enter the num"))
-print(math.sqrt(a))
+a=2
+b=3
+res=(a+b)**2
+print(res)
